@@ -1,0 +1,19 @@
+# Eclipse
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+.settings/
+.loadpath
+.recommenders/
+
+# Java
+*.class
+
+# Build
+target/
+build/
+out/
